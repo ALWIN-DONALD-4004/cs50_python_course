@@ -1,0 +1,6 @@
+to decleare a folder as a package 
+
+
+we want to create an empty file as :
+
+__init__.py
