@@ -2,13 +2,13 @@
 
 
 #function without parameter
-"""def hello():
-    print("hello")
+# """def hello():
+#     print("hello")
 
 
-name = input("what's your name?")
-hello()
-print(name)"""
+# name = input("what's your name?")
+# hello()
+# print(name)"""
 
 
 #function with parameter
